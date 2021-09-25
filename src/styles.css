@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+.App {
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+  background: url(https://unblast.com/wp-content/uploads/2020/05/Light-Wood-Background-Texture.jpg);
+  repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  color: #14532d;
+}
+.body {
+  margin: 0px;
+}
+
+.heading {
+  padding: 1rem;
+  margin: 0px;
+}
+
+.input {
+  margin: auto;
+  display: block;
+  border: 1px solid black;
+  height: 1.5rem;
+  padding: 1rem;
+  background: transparent;
+  font-style: inherit;
+}
+
+.output {
+  margin: 1rem auto 1rem auto;
+  padding: 1rem;
+  width: 80%;
+  font-weight: bold;
+  font-size: larger;
+  height: 2rem;
+}
+
+.foodmoji {
+  padding: 1rem;
+}
+
+.section-center {
+  max-width: 600px;
+  margin: auto;
+}
+
+.list-inline {
+  display: inline;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
